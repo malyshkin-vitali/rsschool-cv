@@ -1,0 +1,24 @@
+        body {
+            background: lightblue;
+        }
+
+        h1 {
+            font-size: 35px;
+            text-align: center;
+        }
+
+        .name {
+            font-size: 25px;
+            text-align: center;
+        }
+
+        .image {
+            display: flex;
+            justify-content: center;
+        }
+
+        footer {
+            font-weight: bold;
+            font-size: 25px;
+            text-align: center;
+        }
